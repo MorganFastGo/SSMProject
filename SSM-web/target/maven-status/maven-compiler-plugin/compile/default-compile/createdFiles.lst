@@ -1,0 +1,6 @@
+com\itheima\controller\PermissionController.class
+com\itheima\controller\ProductContoller.class
+com\itheima\controller\RoleController.class
+com\itheima\controller\OrdersController.class
+com\itheima\controller\UserController.class
+com\itheima\controller\AOPLog.class

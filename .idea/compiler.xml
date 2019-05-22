@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SSM-dao" />
+        <module name="SSM-domain" />
+        <module name="SSM-service" />
+        <module name="SSM-utils" />
+        <module name="SSM-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SSM" target="1.8" />
+      <module name="SSM-dao" target="1.8" />
+      <module name="SSM-domain" target="1.8" />
+      <module name="SSM-service" target="1.8" />
+      <module name="SSM-utils" target="1.8" />
+      <module name="SSM-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
